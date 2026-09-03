@@ -111,7 +111,13 @@
 "author": "NSMOD", 
 "version": "1.0.0", 
 "summary": " ✨ Một bộ phím, cân cả góc máy ",
-"description": "✦ Phím Gọi Nhân Vật Killua \n• Có 2 Chế Độ: Sáng/Tối.\n\n 🔗 [Kênh Telegram](https://t.me/sonchoigame123)", 
+"description": "✦ Phím Gọi Nhân Vật Killua \n• Có 2 Chế Độ: Sáng/Tối.)", 
+"links": [
+  {
+    "title": "Telegram",
+    "url": "https://t.me/sonchoigame"
+  }
+],
 "category": "Dialer", 
 "tags": [ 
 "Dialer"
