@@ -147,6 +147,48 @@
 "isPrivate": false 
 },
 
+{ 
+"identifier": "Telephony-Killua", 
+"name": "Killua Dialer", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": " ✨ Một bộ phím, cân cả góc máy ",
+"description": "✦ Phím Gọi Nhân Vật Killua \n• Có 2 Chế Độ: Sáng/Tối.\n\n 🔗 [Kênh Telegram](https://t.me/sonchoigame123) ", 
+"category": "Dialer", 
+"tags": [ 
+"Test"
+], 
+"icon": "avt/killua.jpg", 
+"screenshots": [
+"imgtel/killua1 (1).jpg",
+"imgtel/killua1 (2).jpg"
+], 
+"download": "telephone/killua.3105pass",
+"sha256": "37a0a95055386e04102fd46369d569802a9d908ce8beabaeafb1605538a345d3", 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
 
 
 
