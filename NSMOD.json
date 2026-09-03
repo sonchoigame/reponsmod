@@ -1,0 +1,300 @@
+{ 
+"schemaVersion": 1, 
+"identifier": "nsmod.sonchoigame.os", 
+"name": "♰ NSMOD ♰", 
+"description": " : ̗̀➛ Kho Lưu Trữ Mod Và Tiện Ích Của NSMOD \n : ̗̀➛ KÊNH TELGRAM: @sonchoigame123  ",
+"icon": "avt/CHR.jpg", 
+"packages": [ 
+{ 
+"identifier": "SADBOY_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Sadboy Wallpaper", 
+"author": "Spy_g_", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Tendies Anh Chàng Cưỡi Mây 💨", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/cm.png", 
+"screenshots": [ 
+"imgten/cm1.png",
+"imgten/cm2.png"
+], 
+"download": "tend/Sadboy.tendies",
+"sha256": "03AC9346E3E00231D424CC1E055008E041E6E76E181D2DF8930D86184FC3F8DE", 
+"size": 11836226, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+{ 
+"identifier": "Hamster_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Chuột Hamster Chơi Bóng Đá", 
+"author": "Onerock", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Tendies Hamster Chơi Bóng Đá ️⚽", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/hms.png", 
+"screenshots": [ 
+"imgten/hms1 (1).png",
+"imgten/hms1 (2).png"
+], 
+"download": "tend/Hamster_Playing_Football.tendies",
+"sha256": "8FBFF0D4AEA68ED52007F8C0C2ED0DC124026BDF4E892767046FF0C3EBE83915", 
+"size": 1576708, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ 
+"identifier": "Telephony-Killua", 
+"name": "Killua Dialer", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": " ✨ Một bộ phím, cân cả góc máy ",
+"description": "✦ Phím Gọi Nhân Vật Killua \n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "avt/killua.jpg", 
+"screenshots": [
+"imgtel/killua1 (1).jpg",
+"imgtel/killua1 (2).jpg"
+], 
+"download": "telephone/killua.3105pass",
+"sha256": "37a0a95055386e04102fd46369d569802a9d908ce8beabaeafb1605538a345d3", 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "Telephony-amongus", 
+"name": "Among Us Dialer", 
+"author": "Gasetinh", 
+"version": "1.0.0", 
+"summary": "Bàn Phím Mới toanhhhh ★",
+"description": "★ Nhiều Among Us Cute Với Các Hình Thù Bắt Mắt Siêu Thú Vị..\n• Có 2 Chế Độ: Sáng/Tối.", 
+"category": "Dialer", 
+"tags": [ 
+"Dialer"
+], 
+"icon": "assets/IMG_0917.jpeg", 
+"screenshots": [
+"assets/IMG_0914.png",
+"assets/IMG_0915.png"
+], 
+"download": "File/Amongus.3105pass",
+"sha256": "2c9d81aa5e1fc6fcd4dda955504d042f126599871b5632a98889b893af274193", 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ 
+"identifier": "Patch-capcut", 
+"name": "CAPCUT PRO", 
+"author": "YangJiii", 
+"version": "1.0.0", 
+"summary": "Patch VIP ★",
+"description": "★ UNLOCK CAP CUTPRO\n━━━━━━━━━━━━━━━━━━\n📥 BƯỚC 1: TẢI XUỐNG\n📂 BƯỚC 2: VÀO MỤC ĐÃ CÀI\n🛠️ BƯỚC 3: CHỌN ÁP DỤNG PATCH\n━━━━━━━━━━━━━━━━━━\n⚠️ LƯU Ý: Hãy đăng xuất tài khoản trước khi dùng.", 
+"category": "PATCH", 
+"tags": [ 
+"PATCH"
+], 
+"icon": "avt/capcutpr.jpg", 
+"screenshots": [
+"imgpat/capcut.png"
+], 
+"download": "patch/CapcutPro.3105",
+"sha256": "79D17FB95FBE667621793442E916E12CDFB48C4E136335E850144E4273FC8430",
+"password": "3105", 
+"size": 34303,
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "Patch-dazzcam", 
+"name": "Dazz Cam PRO", 
+"author": "W/m Cryy", 
+"version": "1.0.0", 
+"summary": "Patch VIP ★",
+"description": "★ UNLOCK CAP DAZZCAM PRO\n━━━━━━━━━━━━━━━━━━\n📥 BƯỚC 1: TẢI XUỐNG\n📂 BƯỚC 2: VÀO MỤC ĐÃ CÀI\n🛠️ BƯỚC 3: CHỌN ÁP DỤNG PATCH", 
+"category": "PATCH", 
+"tags": [ 
+"PATCH"
+], 
+"icon": "avt/dazzcam.jpg", 
+"screenshots": [
+"imgpat/imgdazz.png"
+], 
+"download": "patch/Dazz Cam Pro.3105",
+"sha256": "A192B2470CF3766D407A8C9957EC1F92E121EE112BBB983D9B60B21B6387B9EA",
+"password": "wmcry",
+"size": 1082,
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+}
+
+
+
+
+
+
+]
+}
