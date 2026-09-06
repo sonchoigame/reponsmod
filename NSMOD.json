@@ -128,7 +128,8 @@
 "imgtel/killua1 (2).jpg"
 ], 
 "download": "telephone/killua.3105pass",
-"sha256": "B059C870D2723E1B3EEC33A16DE9B6511...", 
+"sha256": "B059C870D2723E1B3EEC33A16DE9B6511F4C09D9A779E610D22A41CA513690D7", 
+"size" : 3432486,
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
