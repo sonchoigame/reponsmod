@@ -94,6 +94,237 @@
 },
 
 
+{ 
+"identifier": "hatsune_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Hatsune Miku", 
+"author": "ysbz", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Hatsune Miku", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/hatsuneavt.png", 
+"screenshots": [ 
+"imgten/hatsune (1).png",
+"imgten/hatsune (2).png"
+], 
+"download": "tend/Hatsune-Miku.tendies",
+"sha256": "736DE53155DC61A651CB06AAD2F60BB604C976A87F1BCA2C9C3095F04DEC1762", 
+"size": 30894948, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "moestyle_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Moe-Style Zenitsu", 
+"author": "by ysbz", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Moe-Style Zenitsu", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/hatsuneavt.png", 
+"screenshots": [ 
+"imgten/zenitsu (1).png",
+"imgten/zenitsu (2).png"
+], 
+"download": "tend/Moe-Style-Zenitsu.tendies",
+"sha256": "1819A0514103848568CC205F191128446795AB52176785BE421459624868AC0A", 
+"size": 13696814, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+{ 
+"identifier": "gba_Wallpaper", 
+"kind": "wallpaper", 
+"name": "GBA Animated", 
+"author": "whoism4xi", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "GBA Animated", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/avtgba.png", 
+"screenshots": [ 
+"imgten/gba (1).png",
+"imgten/gba (2).png"
+], 
+"download": "tend/GBA_Animated.tendies",
+"sha256": "70758706B83956C6C1BD6804349FF54F673BAA59CEBEA35CB49E7EAA63D12D6A", 
+"size": 4289605, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "bowser_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Bowser Jr.", 
+"author": " aperaine", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Bowser Jr.", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/Screenshot 2026-09-07 095050.png", 
+"screenshots": [ 
+"imgten/bowser (1).png",
+"imgten/bowser (2).png"
+], 
+"download": "tend/Bowser_Jr.tendies",
+"sha256": "4247059F529089F82772EEA3B27EEBA338858004C3CBC5967944BF3BFF647198", 
+"size": 953630, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "marin_Wallpaper", 
+"kind": "wallpaper", 
+"name": "Marin Kitagawa", 
+"author": " aperaine", 
+"version": "1.0.0", 
+"summary": "Hình Nền Đỉnh Khỏi Chỉnh ★", 
+"description": "Marin Kitagawa", 
+"category": "Wallpaper", 
+"tags": [ 
+"Wallpaper"
+], 
+"icon": "avt/avtmarin.png", 
+"screenshots": [ 
+"imgten/marin (1).png",
+"imgten/marin (2).png"
+], 
+"download": "tend/Marin_Kitagawa.tendies",
+"sha256": "6A2479CE6B3A680704CD64435AD14FE4F8A949B56F7CF83B70084B1694C1C39E", 
+"size": 13488677, 
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+
+
+
+
+
 
 
 
