@@ -151,7 +151,7 @@
 "tags": [ 
 "Wallpaper"
 ], 
-"icon": "avt/zenitsuavt.png", 
+"icon": "avt/hatsuneavt.png", 
 "screenshots": [ 
 "imgten/zenitsu (1).png",
 "imgten/zenitsu (2).png"
@@ -465,6 +465,50 @@
 "sha256": "A192B2470CF3766D407A8C9957EC1F92E121EE112BBB983D9B60B21B6387B9EA",
 "password": "wmcry",
 "size": 1082,
+"supportedOS": [ 
+{ 
+"minimum": "17.0", 
+"maximum": "18.7.1" 
+}, 
+{ 
+"minimum": "26.0", 
+"maximum": "26.6.1" 
+}, 
+{ 
+"minimum": "27.0", 
+"maximum": "27.0", 
+"builds": [ 
+"24A5355q", 
+"24A5370h", 
+"24A5380h", 
+"24A5390f" 
+] 
+} 
+], 
+"featured": false, 
+"isPrivate": false 
+},
+
+
+{ 
+"identifier": "Patch-iscreen", 
+"name": "ISCREEN PREMIUM", 
+"author": "NSMOD", 
+"version": "1.0.0", 
+"summary": "Patch VIP ★",
+"description": "★ UNLOCK ISCREEN PREMIUM\n━━━━━━━━━━━━━━━━━━\n📥 BƯỚC 1: TẢI XUỐNG\n📂 BƯỚC 2: VÀO MỤC ĐÃ CÀI\n🛠️ BƯỚC 3: CHỌN ÁP DỤNG PATCH", 
+"category": "PATCH", 
+"tags": [ 
+"PATCH"
+], 
+"icon": "imgpat/IMG_0025.jpeg", 
+"screenshots": [
+"imgpat/IMG_0024.png"
+], 
+"download": "patch/bIscreen.3105",
+"sha256": "B6D5750018F064CC3E747E7CE7A1E608A4A129D3267B918F99759C9526AA9BC5",
+"password": "wmcry",
+"size": 1738,
 "supportedOS": [ 
 { 
 "minimum": "17.0", 
